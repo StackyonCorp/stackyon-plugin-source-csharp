@@ -1,0 +1,10 @@
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\bin\Debug\netcoreapp3.1\MathLib.deps.json
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\bin\Debug\netcoreapp3.1\MathLib.dll
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\bin\Debug\netcoreapp3.1\MathLib.pdb
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.csproj.AssemblyReference.cache
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.AssemblyInfoInputs.cache
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.AssemblyInfo.cs
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.csproj.CoreCompileInputs.cache
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.dll
+C:\Users\Trinadha\Documents\Projects\TestApps\MathLib\MathLib\obj\Debug\netcoreapp3.1\MathLib.pdb
